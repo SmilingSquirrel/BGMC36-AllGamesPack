@@ -12,4 +12,4 @@ Required Blender Versions:
 
 
 (Rivals Gone Bad is not in the pack. The file was too big for github's liking. :(  )
-Rivals Gone Bad - UPBGE 0.3.0 (Aug 8th, 2021 build)
+- Rivals Gone Bad - UPBGE 0.3.0 (Aug 8th, 2021 build)
